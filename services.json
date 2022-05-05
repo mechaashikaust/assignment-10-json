@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "One to One Coaching",
+        "price": "300",
+        "description": "One on one coaching is ideal for you if you need a more personal approach to your training, mindset and nutrition.",
+        "img": "https://i.ibb.co/KbTBV1n/bodybuilder-training-arm-with-resistance-band.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Couples Coaching",
+        "price": "100",
+        "description": "Couples Coaching is ideal if you work harder and feel more motivated training with your partner/friend and want to make huge savings on personal training costs.",
+        "img": "https://i.ibb.co/SnxMJ2m/woman-doing-workout-gym-with-trainer.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Group Coaching",
+        "price": "150",
+        "description": "Full-body workouts are designed to build strength and endurance, using the energy of a small group or team of people around you and the expertise of the coach to maximize your results.",
+        "img": "https://i.ibb.co/7zrgksc/group-young-people-training-gym-indoors-maintaining-sportive-lifestyle.jpg"
+    },
+    {
+        "id": 4,
+        "name": "One to One Coaching Online",
+        "price": "180",
+        "description": "Online coaching is ideal if you prefer to train at home (or remotely)",
+        "img": "https://i.ibb.co/gDn8ZFq/close-up-woman-exercising-after-online-instructor.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Couples Coaching Online",
+        "price": "100",
+        "description": "Couples Online Coaching is ideal if you work harder and feel more motivated training with your partner/friend and want to make huge savings on personal training costs.",
+        "img": "https://i.ibb.co/ByC11Lm/close-up-couple-exercising-after-online-instructor.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Nutrition Coaching",
+        "price": "300",
+        "description": "Get a handle on your nutrition once and for all with extensive nutrition and habit coaching to ensure you stay on track.",
+        "img": "https://i.ibb.co/d5wZdrM/blonde-fithess-girl-sit-table-holding-fresh-smoothie-measure-diet-time-concept-1.jpg"
+    }
+]
